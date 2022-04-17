@@ -276,7 +276,7 @@ textarea {
  */
 
 .row {
-	width: 80%;
+	width: 94%;
 	max-width: 1140px;
 	margin: 0 auto;
 }
@@ -337,6 +337,9 @@ textarea {
 }
 .col-twelve, .col-full {
 	width: 100%;
+}
+.col-twenty {
+	width: 150%;
 }
 
 /**
