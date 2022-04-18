@@ -789,12 +789,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 		max-width: 650px;
 	}
 	.section-intro h1 {
-		font-size: 2.3rem;
+		font-size: 2.8rem;
 	}
 }
 @media only screen and (max-width:600px) {
 	.section-intro h1 {
-		font-size: 2.3rem;
+		font-size: 2.8rem;
 	}
 	.section-intro h5 {
 		font-size: 1.5rem;
@@ -803,7 +803,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 @media only screen and (max-width:400px) {
 	.section-intro h1 {
-		font-size: 2.3rem;
+		font-size: 2.8rem;
 	}
 }
 
