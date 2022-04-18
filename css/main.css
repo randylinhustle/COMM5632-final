@@ -1543,7 +1543,7 @@ a.menu-toggle {
  */
 
 #two {
-	/* background: #090909 url(../images/features-bg.jpg) no-repeat center; */
+	background: #FFFFFF;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2009,7 +2009,7 @@ a.menu-toggle {
  */
 
 #four {
-	background: #eee;
+	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 6rem;
 }
