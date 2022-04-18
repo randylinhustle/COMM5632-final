@@ -33,7 +33,7 @@ html, body {
 }
 body {
 	background: #eee;
-	font-family: "merriweather-regular", serif;
+	font-family: "PT_Sans-regular", serif;
 	font-size: 1.6rem;
 	line-height: 3rem;
 	color: #737373;
@@ -73,7 +73,7 @@ h3, .h03, h4, .h04 {
 	margin-bottom: 1.8rem;
 }
 h5, .h05, h6, .h06 {
-	font-family: "merriweather-rugular";
+	font-family: "PT_Sans-rugular";
 	margin-bottom: 1.2rem;
 }
 
@@ -118,7 +118,7 @@ p img {
 	margin-bottom: -3rem;
 }
 p.lead {
-	font-family: "merriweather-regular", serif;
+	font-family: "PT_Sans-regular", serif;
 	font-size: 1.875rem;
 	line-height: 1.8;
 	text-align: left;
@@ -132,7 +132,7 @@ p.lead {
 }
 
 p.randy {
-	font-family: "merriweather-regular", serif;
+	font-family: "PT_Sans-regular", serif;
 	font-size: 1.875rem;
 	line-height: 1.8;
 	text-align: left;
@@ -147,7 +147,7 @@ p.randy {
 }
 
 p.randall {
-	font-family: "merriweather-regular", serif;
+	font-family: "PT_Sans-regular", serif;
 	font-size: 1.875rem;
 	line-height: 1.8;
 	text-align: left;
@@ -174,10 +174,10 @@ em, i, strong, b {
 }
 
 em, i {
-	font-family: "merriweather-italic", serif;
+	font-family: "PT_Sans-italic", serif;
 }
 strong, b {
-	font-family: "merriweather-bold", serif;
+	font-family: "PT_Sans-bold", serif;
 }
 small {
 	font-size: 1.1rem;
@@ -229,7 +229,7 @@ blockquote cite a, blockquote cite a:visited {
 }
 
 abbr {
-	font-family: "merriweather-bold", serif;
+	font-family: "PT_Sans-bold", serif;
 	font-variant: small-caps;
 	text-transform: lowercase;
 	letter-spacing: .05rem;
@@ -518,7 +518,7 @@ select {
 	outline: none;
 	vertical-align: middle;
 	color: #737373;
-	font-family: "merriweather-regular", sans-serif;
+	font-family: "PT_Sans-regular", sans-serif;
 	font-size: 1.5rem;
 	line-height: 3rem;
 	border-radius: 3px;
@@ -589,7 +589,7 @@ select:focus {
 	border: 1px solid #d2fef9;
 }
 label, legend {
-	font-family: "merriweather-bold", sans-serif;
+	font-family: "PT_Sans-bold", sans-serif;
 	font-size: 1.4rem;
 	margin-bottom: .6rem;
 	color: #404040;
@@ -732,7 +732,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  */
 
 .section-intro {
-	max-width: 700px;
+	max-width: 800px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -740,7 +740,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	position: relative;
 }
 .section-intro h1 {
-	font-family: "merriweather-bold", serif;
+	font-family: "PT_Sans-bold", serif;
 	font-size: 3rem;
 	color: #000000;
 	line-height: 1.25;
@@ -1194,7 +1194,7 @@ a.menu-toggle {
 }
 .intro-content h1 {
 	color: #FFFFFF;
-	font-family: "merriweather-bold", serif;
+	font-family: "PT_Sans-bold", serif;
 	font-size: 3.5rem;
 	line-height: 1.334;
 	max-width: 800px;
@@ -1204,7 +1204,7 @@ a.menu-toggle {
 }
 .intro-content h5 {
 	color: rgba(255, 255, 255, 0.6);
-	font-family: "merriweather-bold", serif;
+	font-family: "PT_Sans-bold", serif;
 	font-size: 1.3rem;
 	line-height: 1.667;
 	margin-bottom: 0.6rem;
