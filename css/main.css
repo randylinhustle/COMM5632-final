@@ -736,7 +736,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 5.2rem;
+	margin-bottom: 1rem;
 	position: relative;
 }
 .section-intro h1 {
