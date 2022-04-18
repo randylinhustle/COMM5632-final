@@ -1426,7 +1426,7 @@ a.menu-toggle {
 
 #one {
 	background: #FFFFFF;
-	padding-top: 12rem;
+	padding-top: 2rem;
 	padding-bottom: 1rem;
 	overflow: hidden;
 }
@@ -1547,7 +1547,7 @@ a.menu-toggle {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	padding-top: 12rem;
+	padding-top: 2rem;
 	padding-bottom: 1rem;
 	/* color: white; */
 }
@@ -1620,7 +1620,7 @@ a.menu-toggle {
 
 #three {
 	background: #FFFFFF;
-	padding-top: 12rem;
+	padding-top: 2rem;
 	padding-bottom: 1rem;
 }
 .three-content {
@@ -2010,8 +2010,8 @@ a.menu-toggle {
 
 #four {
 	background: #FFFFFF;
-	padding-top: 12rem;
-	padding-bottom: 6rem;
+	padding-top: 2rem;
+	padding-bottom: 1rem;
 }
 .four-content {
 	margin-top: 5.4rem;
