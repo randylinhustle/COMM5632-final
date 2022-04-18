@@ -741,7 +741,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro h1 {
 	font-family: "PT_Sans-bold", serif;
-	font-size: 4rem;
+	font-size: 4.5rem;
 	color: #000000;
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
